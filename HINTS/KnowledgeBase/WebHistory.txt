@@ -1,0 +1,20 @@
+Archive.is
+http://archive.is
+
+BlackWidow
+http://softbytelabs.com/en/BlackWidow
+
+CashedPages
+http://www.cachedpages.com
+
+CachedView
+http://cachedview.com
+
+Screenshots.com
+http://www.screenshots.com
+
+Wayback Machine
+http://archive.org/web/web.php
+
+Wayback Machine Archiver
+https://github.com/jsvine/waybackpack

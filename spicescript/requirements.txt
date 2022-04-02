@@ -1,0 +1,7 @@
+requests
+shodan
+proxyscrape
+paramiko 
+scapy
+pynput
+colorama

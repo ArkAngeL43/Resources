@@ -1,0 +1,65 @@
+Breach OR Clear
+http://breachorclear.jesterscourt.cc
+
+Custom Email Search Tools
+https://inteltechniques.com/osint/menu.email.html
+
+BriteVerify Email Verification
+http://www.briteverify.co.uk
+
+Email Address Validator
+http://www.email-validator.net
+
+Email Format
+http://email-format.com
+
+EmailHippo
+https://tools.verifyemailaddress.io
+
+Email Hunter
+https://emailhunter.co
+
+Email Permutator+
+http://metricsparrow.com/toolkit/email-permutator
+
+Emails4corporations
+https://sites.google.com/site/emails4corporations/home
+
+EmailSearch.net
+http://www.email-search.org/search-emails
+
+Email Validator
+https://chema.ga/emailvalidator/index.php
+
+Email Validator Tool
+http://e-mailvalidator.com
+
+Have I Been Pwned
+https://haveibeenpwned.com
+
+MailTester
+http://mailtester.com/testmail.php
+
+Peepmail
+http://www.samy.pl/peepmail
+
+Pipl
+https://pipl.com
+
+ReverseGenie
+http://www.reversegenie.com/email.php
+
+TCIPUTILS.com Email Test
+http://www.tcpiputils.com/email-test
+
+That’sThem
+https://thatsthem.com/reverse-email-lookup
+
+Toofr
+https://www.toofr.com
+
+Verify Email
+http://verify-email.org
+
+VoilaNorbert
+https://www.voilanorbert.com

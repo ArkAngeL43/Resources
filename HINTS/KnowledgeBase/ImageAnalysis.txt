@@ -1,0 +1,32 @@
+ExifTool
+http://www.sno.phy.queensu.ca/~phil/exiftool
+
+EXIFviewer.org
+http://www.exifviewer.org
+
+Exif Search
+http://www.exif-search.com
+
+FotoForensics
+http://www.fotoforensics.com
+
+Gbimg.org
+http://gbimg.org
+
+Ghiro
+http://www.getghiro.org
+
+ImpulseAdventure
+http://www.impulseadventure.com/photo/jpeg-snoop.html
+
+izitru
+http://www.izitru.com
+
+Jeffrey’s Image Metadata Viewer
+http://regex.info//exif.cgi
+
+JPEGsnoop
+https://sourceforge.net/projects/jpegsnoop
+
+metapicz
+http://metapicz.com/#landing
