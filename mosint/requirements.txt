@@ -1,3 +1,0 @@
-requests==2.26.0
-socialscan==1.4.1
-emailrep==0.0.5

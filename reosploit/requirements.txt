@@ -1,7 +1,0 @@
-requests
-colorama
-netaddr
-pyshark
-scapy
-prettytable
-opencv-python

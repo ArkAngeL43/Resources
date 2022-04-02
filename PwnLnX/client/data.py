@@ -1,2 +1,0 @@
-lhost = 'ls'
-lport = cd ..
