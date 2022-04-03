@@ -1,5 +1,3 @@
-@@ -0,0 +1,2136 @@
-# Resources
 # Resources-
 Resources for learning ethical hacking.
 My Resource Pack https://github.com/dux074/Resources/blob/main/Resources.torrent 50gb of Ebooks 
